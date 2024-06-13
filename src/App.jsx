@@ -6,6 +6,7 @@ function App() {
     <div className="weather-App">
       <h1 className="heading">Weather App</h1>
       <h2>Check weather</h2>
+      <hr />
       <input
         className="inputCity"
         placeholder="Enter City Name"
