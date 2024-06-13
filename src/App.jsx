@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="weather-App">
       <h1 className="heading">Weather App</h1>
+      <h2>Check weather</h2>
       <input
         className="inputCity"
         placeholder="Enter City Name"
